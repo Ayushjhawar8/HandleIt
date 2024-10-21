@@ -12,9 +12,10 @@ A streamlined web application designed to manage day-to-day tasks and enhance pr
 
 For detailed instructions on setting up the application, check out the [Setup Guide](guide.md).
 
-## 🎥 Demo Video
+### :movie_camera: Demo
 
-Check out the demo video to see how the application works in action:
-
-[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-
+<p align="center">
+    <a href="https://youtu.be/RuZGnDQtcFw">
+        <img src="https://img.freepik.com/free-vector/modern-red-video-media-player-template_1017-23409.jpg"/>
+    </a>
+</p>
